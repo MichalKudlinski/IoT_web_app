@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/74763c43-9f4a-466b-bf21-10498b1398ba/resourceGroups/labiotmk_group/providers/Microsoft.Web/sites/labiotmk",
+    "appService.deploySubpath": "azure_web_api_mk1\\publish"
+}
